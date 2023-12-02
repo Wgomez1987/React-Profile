@@ -4,7 +4,8 @@ function NavTabs() {
   const currentPage = useLocation().pathname;
 
   return (
-    <ul className="d-flex justify-content-center nav">
+    <nav id='nav-container'>
+    <ul className="d-flex justify-content-center nav bg-dark">
       <li className="nav-item">
         <Link
           to="/"
@@ -42,6 +43,7 @@ function NavTabs() {
         </Link>
       </li>
     </ul>
+  </nav>
   );
 }
 
