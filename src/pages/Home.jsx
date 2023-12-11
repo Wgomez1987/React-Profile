@@ -6,6 +6,23 @@ export default function Home() {
       <h1 className="name">William Gomez</h1>
       <div className="title justify-content-center d-flex"> Software Developer
       </div>
+      <div>
+        <ul>
+          <li>HTML
+          </li>
+          <li>CSS</li>
+          <li>JAVASCRIPT</li>
+          <li>NODE</li>
+          <li>REACT</li>
+          <li>EXPRESS</li>
+          <li>MONGODB</li>
+          <li>MONGOOSE</li>
+          <li>MYSQL</li>
+          <li>SEQUALIZE</li>
+          <li>GRAPHQL</li>
+          <li>ORM/MVC</li>
+        </ul>
+      </div>
         </div>
       </div>
   );

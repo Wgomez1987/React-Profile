@@ -53,7 +53,7 @@ body {
 
 
 main {
-  min-height: 100vh;
+  min-height: 75vh;
 
 }
 
@@ -81,8 +81,6 @@ margin-right: 1200px;
 }
 
 .header {
-  border-radius: 300%;
-  border: 1px solid black;
   min-width: 25vw;
   min-height: 30vh;
   margin-top: 50px;
@@ -90,5 +88,5 @@ margin-right: 1200px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  
+
 }
