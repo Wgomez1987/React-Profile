@@ -3,7 +3,7 @@ export default function Project() {
       <div>
         <h1>Projects Page</h1>
         <div>
-          pic of projcets Here
+          <a href='./public/Moodie Home.PNG'>Home</a>
         </div>
         
       </div>
