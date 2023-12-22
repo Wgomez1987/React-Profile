@@ -2,7 +2,6 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  font-family: fantasy;
 }
 
 body {
@@ -27,7 +26,6 @@ body {
 .name {
   display: flex;
   justify-content: center;
-  font-family: fantasy;
 
 }
 
@@ -38,7 +36,6 @@ body {
 }
 
 .title {
-  font-family: fantasy;
   font-size: larger;
 }
 
