@@ -7,6 +7,7 @@ export default function Project() {
         </a>
         <p id='project-paragraph'>Introducing Moodie!  Moodie is a one-stop-shop for your "staying in" needs.  Moodie allows you to search for a movie based on your selections of genre, year, and language!  After your choices have been selected, Moodie will give you a recipe to go with the Movie it has selected for your perfect night in!  Interested in how it works?  Click the image!</p>
       </div>
+      <h1>Chit Chat: Mongo, Express, React, Node.JS, GraphQL, Socket.IO</h1>
       <div>
         <a href='https://chit-chat-wechatalot-00f4f8dc2d8e.herokuapp.com/'><img src='./public/chitchat-screenshot-1.png' target='_blank' width='320' height='240' alt='Chit Chat Homepage' />
         </a>
