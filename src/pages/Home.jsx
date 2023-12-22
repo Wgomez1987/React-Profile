@@ -5,7 +5,7 @@ export default function Home() {
       <h1 className="name">William Gomez</h1>
       <div className="title justify-content-center d-flex"> Software Developer
       </div>
-      <div>
+      <div id='list-items'>
         <ul>
           <li>HTML
           </li>
