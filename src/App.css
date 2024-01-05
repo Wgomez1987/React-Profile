@@ -101,3 +101,10 @@ main {
   justify-content: space-around;
   margin: 20px;
 }
+
+#my-image img {
+ padding: 10px;
+ border-radius: 300rem;
+ height: 240px;
+ width: 130px;
+}
